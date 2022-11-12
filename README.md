@@ -17,3 +17,6 @@ Internal event (customer activity) variable - if the account is closed then 1 el
 the rest https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
 
 
+## Processed Dataset 
+Conduected data clean, normalization(MinMax), encoding, inpute missing values(based on KNN inputation)
+
